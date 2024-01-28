@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "887778096076",
+    "project_id": "chickenrun-401801",
+    "storage_bucket": "chickenrun-401801.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887778096076:android:a33ff1a80611d100966369",
+        "android_client_info": {
+          "package_name": "com.JuwanKim.ChickenRun"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy6VXyGt38a3SOre8UzNnitvIiusvPxBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
